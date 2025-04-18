@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -37,21 +36,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [BEM Cheat Sheet](https://bem-cheat-sheet.9elements.com/) - A handy guide for naming CSS classes using the BEM (Block Element Modifier) methodology. It provides naming suggestions for common web components like cards, buttons, and forms, helping you maintain organized and scalable code.
+- [Squoosh.app](https://squoosh.app/) - A free, browser-based image compression tool developed by GoogleChromeLabs. Squoosh allows you to compress and compare images with different codecs directly in your browser, ensuring your images are optimized without compromising quality.
+- [Shots.so](https://shots.so/) - An online tool that enables you to create beautiful mockups quickly. Simply drag and drop your screenshots or designs, choose from various devices and backgrounds, and customize the appearance to suit your needs.
 
 ## Author
 
 - Website - [Serrato.dev](https://www.serrato.dev)
 - LinkedIn - [in/angel-serrato](https://www.linkedin.com/in/angel-serrato/)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- GitHub - [@angel-serrato](https://github.com/angel-serrato)
