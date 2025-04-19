@@ -11,8 +11,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
+
+A simple and clean QR code component card that follows a mobile-first workflow. It includes a card with a QR image, a title, and a short description. The layout is responsive and centered on the page using Flexbox.
 
 ### Screenshot
 
@@ -20,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://serrato.dev/frontend-qr-code-component/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-Bk5BxOG_zC)
+- Live Site URL: [Demo](https://serrato.dev/frontend-qr-code-component/)
 
 ## My process
 
@@ -32,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
+- Google Fonts
 
 ### Useful resources
 
@@ -43,5 +46,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Serrato.dev](https://www.serrato.dev)
-- LinkedIn - [in/angel-serrato](https://www.linkedin.com/in/angel-serrato/)
+- LinkedIn - [@angel-serrato](https://www.linkedin.com/in/angel-serrato/)
 - GitHub - [@angel-serrato](https://github.com/angel-serrato)
+
+## Acknowledgments
+
+Challenge by [Frontend Mentor](https://www.frontendmentor.io/). Thanks for the awesome practice projects!
